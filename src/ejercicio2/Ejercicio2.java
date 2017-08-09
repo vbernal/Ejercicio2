@@ -17,6 +17,13 @@ public class Ejercicio2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+     int [] Rliquida = {25000,30000,40000};
+     
+     int [] Patrimonio = {100000,150000,210000};
+     
+     int [] VCredito = {130,200,130};
+     
+     
     }
     
 }
